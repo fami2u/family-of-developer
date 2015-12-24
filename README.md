@@ -1,2 +1,2 @@
-# family-of-developer
-family-of-developer
+# 关于我们
+FAMI2U 是FAMI发起的一个开发者组织，目标是为实现IT无边界化努力。解放和发展开发者的生产力，从而促进开发的对于其他各行业的贡献，使开发者称为推动变革的中坚力量。
